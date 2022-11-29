@@ -7,7 +7,7 @@ public class BaekJoon_1008 { // A/B
         double C;
         double A = sc.nextInt();
         double B = sc.nextInt();
-        C = A/B;
+        C = A / B;
         System.out.println(C);
 
     }
