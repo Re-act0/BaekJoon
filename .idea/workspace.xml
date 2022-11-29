@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="A - B / 2022-10-22">
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon_1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon_1008.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="A/B / 2022-10-22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669710913582</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="A/B / 2022-10-22">
+      <created>1669710975033</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669710975033</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +218,7 @@
     <MESSAGE value="2022-11-29" />
     <MESSAGE value="A + B / 2022-10-22" />
     <MESSAGE value="A - B / 2022-10-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="A - B / 2022-10-22" />
+    <MESSAGE value="A/B / 2022-10-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="A/B / 2022-10-22" />
   </component>
 </project>
