@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1929 {
+public class BaekJoon_1929 { // 소수 구하기
     public static boolean[] prime;
 
     public static void main(String[] args) throws IOException {

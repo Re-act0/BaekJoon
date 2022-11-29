@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_9086 {
+public class BaekJoon_9086 { // 문자열
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter((System.out)));

@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_9020 {
+public class BaekJoon_9020 { // 골드바흐의 추측
     public static boolean[] prime = new boolean[10001];
 
     public static void main(String[] args) throws IOException {

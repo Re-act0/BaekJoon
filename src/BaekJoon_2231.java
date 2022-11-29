@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_2231 { // 2231번
+public class BaekJoon_2231 { // 분해합
 
     public static void main(String[] args) throws IOException {
 

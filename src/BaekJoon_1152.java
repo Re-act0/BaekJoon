@@ -1,21 +1,19 @@
 import java.io.*;
+import java.util.StringTokenizer;
 
-public class BaekJoon_2558 { // A+B - 2
-
+public class BaekJoon_1152 { // 단어의 개수
     public static void main(String[] args) throws IOException {
-
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int a = Integer.parseInt(br.readLine());
-        int b = Integer.parseInt(br.readLine());
-        int sum = a + b;
+        int count = st.countTokens();
 
-        bw.write(sum + "");
+        bw.write(st.countTokens()+"");
 
+        br.close();
 
         bw.flush();
+        bw.close();
     }
-
-
 }

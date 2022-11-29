@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1085 {
+public class BaekJoon_1085 { // 직사각형에서 탈출
 
     public static void main(String[] args) throws IOException {
 

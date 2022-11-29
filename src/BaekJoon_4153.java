@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class BaekJoon_4153 { // 4153번
+public class BaekJoon_4153 { // 직각삼각형
 
     public static void main(String[] args) throws IOException {
 
