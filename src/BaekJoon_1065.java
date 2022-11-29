@@ -36,7 +36,7 @@ public class BaekJoon_1065 { // 한수
                 baek = i / 100;
 
                 baek_sip_cha = baek - sip;
-                sip_il_cha = sip-il;
+                sip_il_cha = sip - il;
 
                 if (sip_il_cha == baek_sip_cha) {
                     res++;
