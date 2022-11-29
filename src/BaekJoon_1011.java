@@ -19,14 +19,12 @@ public class BaekJoon_1011 { // Fly me to the Alpha Centauri
                 arr[i] = Integer.parseInt(st.nextToken());
             }
             int distance = arr[1] - arr[0];
-            int max = (int)Math.sqrt(distance);
+            int max = (int) Math.sqrt(distance);
             if (max == Math.sqrt(distance)) {
-                bw.write((2 * max -1) + "\n");
-            }
-            else if (distance <= max * max + max) {
-                bw.write((2 * max)+"\n");
-            }
-            else {
+                bw.write((2 * max - 1) + "\n");
+            } else if (distance <= max * max + max) {
+                bw.write((2 * max) + "\n");
+            } else {
                 bw.write((max * 2 + 1) + "\n");
             }
 
