@@ -39,7 +39,7 @@ public class BaekJoon_1157 { // 단어 공부
             bw.write("?");
         } // 중복된 값이 있는 경우 ? 출력
         else {
-            char c = (char)(index + 65);
+            char c = (char) (index + 65);
             bw.write(c);
         } // 최대값의 인덱스 "알파벳 대문자"로 출력
 
