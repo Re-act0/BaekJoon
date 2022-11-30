@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_2558 { // A+B - 2
+public class BaekJoon_2558 {  // A+B - 2
 
     public static void main(String[] args) throws IOException {
 
