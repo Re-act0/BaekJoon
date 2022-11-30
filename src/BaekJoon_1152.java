@@ -9,7 +9,7 @@ public class BaekJoon_1152 { // 단어의 개수
 
         int count = st.countTokens();
 
-        bw.write(st.countTokens()+"");
+        bw.write(st.countTokens() + "");
 
         br.close();
 
