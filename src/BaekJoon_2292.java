@@ -6,11 +6,11 @@ public class BaekJoon_2292 { // 벌집
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int room = 1;
-        int n=1;
+        int n = 1;
         int N = Integer.parseInt(br.readLine());
 
-        while (N>room) {
-            room += (6*n);
+        while (N > room) {
+            room += (6 * n);
             n++;
         }
 

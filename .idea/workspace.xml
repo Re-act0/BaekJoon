@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="평균 / 2022-11-02">
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon_1546.java" afterDir="false" />
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="분해합 / 2022-11-29">
+      <change beforePath="$PROJECT_DIR$/src/BaekJoon_2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon_2292.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +250,35 @@
       <option name="project" value="LOCAL" />
       <updated>1669821504630</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="손익분기점 / 2022-11-13">
+      <created>1669821548986</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821548986</updated>
+    </task>
+    <task id="LOCAL-00030" summary="소수 구하기 / 2022-11-22">
+      <created>1669821599612</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821599612</updated>
+    </task>
+    <task id="LOCAL-00031" summary="소수 찾기 / 2022-11-18">
+      <created>1669821673082</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821673082</updated>
+    </task>
+    <task id="LOCAL-00032" summary="분해합 / 2022-11-29">
+      <created>1669821808014</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821808014</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +313,10 @@
     <MESSAGE value="그룹 단어 체커 / 2022-11-12" />
     <MESSAGE value="두 수 비교하기 / 2022-10-23" />
     <MESSAGE value="평균 / 2022-11-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="평균 / 2022-11-02" />
+    <MESSAGE value="손익분기점 / 2022-11-13" />
+    <MESSAGE value="소수 구하기 / 2022-11-22" />
+    <MESSAGE value="소수 찾기 / 2022-11-18" />
+    <MESSAGE value="분해합 / 2022-11-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="분해합 / 2022-11-29" />
   </component>
 </project>
