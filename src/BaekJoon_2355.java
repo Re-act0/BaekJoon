@@ -27,9 +27,7 @@ public class BaekJoon_2355 { // 시그마
             } else if (A >= 0 && B >= 0) {
                 res = (B * (B + 1) / 2) - (A * (A - 1) / 2);
             }
-        }
-
-        else if (A < B) {
+        } else if (A < B) {
             if (A < 0 && B < 0) {
                 A = -A;
                 B = -B;
@@ -41,7 +39,7 @@ public class BaekJoon_2355 { // 시그마
                 res = (B * (B + 1) / 2) - (A * (A - 1) / 2);
             }
         } else if (A == B) {
-            res =  A;
+            res = A;
         }
 
         bw.write(res + "");
