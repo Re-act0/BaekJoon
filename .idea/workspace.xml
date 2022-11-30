@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="소수 / 2022-11-18" />
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="크로아티아 알파벳 / 2022-11-11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -367,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669822965769</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="크로아티아 알파벳 / 2022-11-11">
+      <created>1669823062354</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1669823062354</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="직사각형에서 탈출 / 2022-11-27" />
     <MESSAGE value="더하기 사이클 / 2022-10-29" />
     <MESSAGE value="단어의 개수 / 2022-11-11" />
     <MESSAGE value="단어 공부 / 2022-11-11" />
@@ -407,6 +415,7 @@
     <MESSAGE value="소인수분해 / 2022-11-22" />
     <MESSAGE value="설탕 배달 / 2022-11-17" />
     <MESSAGE value="소수 / 2022-11-18" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 / 2022-11-18" />
+    <MESSAGE value="크로아티아 알파벳 / 2022-11-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="크로아티아 알파벳 / 2022-11-11" />
   </component>
 </project>
