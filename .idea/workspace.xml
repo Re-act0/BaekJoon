@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="분해합 / 2022-11-29">
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon_2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon_2292.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="직각삼각형 / 2022-11-28" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +276,49 @@
       <option name="project" value="LOCAL" />
       <updated>1669821808014</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="벌집 / 2022-11-13">
+      <created>1669821840704</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821840704</updated>
+    </task>
+    <task id="LOCAL-00034" summary="시그마 / 2022-11-14">
+      <created>1669821909218</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821909218</updated>
+    </task>
+    <task id="LOCAL-00035" summary="사파리월드 / 2022-10-26">
+      <created>1669821946393</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821946393</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Hello World / 2022-10-22">
+      <created>1669822004441</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822004441</updated>
+    </task>
+    <task id="LOCAL-00037" summary="A+B - 2 / 2022-11-26">
+      <created>1669822075013</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822075013</updated>
+    </task>
+    <task id="LOCAL-00038" summary="직각삼각형 / 2022-11-28">
+      <created>1669822121865</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822121865</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,11 +333,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-11-21" />
-    <MESSAGE value="2022-11-22" />
-    <MESSAGE value="2022-11-23" />
-    <MESSAGE value="2022-11-24" />
-    <MESSAGE value="2022-11-25" />
     <MESSAGE value="2022-11-26" />
     <MESSAGE value="2022-11-27" />
     <MESSAGE value="2022-11-28" />
@@ -317,6 +352,12 @@
     <MESSAGE value="소수 구하기 / 2022-11-22" />
     <MESSAGE value="소수 찾기 / 2022-11-18" />
     <MESSAGE value="분해합 / 2022-11-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="분해합 / 2022-11-29" />
+    <MESSAGE value="벌집 / 2022-11-13" />
+    <MESSAGE value="시그마 / 2022-11-14" />
+    <MESSAGE value="사파리월드 / 2022-10-26" />
+    <MESSAGE value="Hello World / 2022-10-22" />
+    <MESSAGE value="A+B - 2 / 2022-11-26" />
+    <MESSAGE value="직각삼각형 / 2022-11-28" />
+    <option name="LAST_COMMIT_MESSAGE" value="직각삼각형 / 2022-11-28" />
   </component>
 </project>

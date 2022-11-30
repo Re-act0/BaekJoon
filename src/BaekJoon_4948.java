@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_4948 { // 베르트랑 공준
+public class BaekJoon_4948 {  // 베르트랑 공준
     public static boolean[] prime;
 
     public static void main(String[] args) throws IOException {
