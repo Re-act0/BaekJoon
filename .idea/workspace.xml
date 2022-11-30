@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="직각삼각형 / 2022-11-28" />
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="소인수분해 / 2022-11-22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -318,7 +318,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669822121865</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="베르트랑 공준 / 2022-11-23">
+      <created>1669822165151</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822165151</updated>
+    </task>
+    <task id="LOCAL-00040" summary="골드바흐의 추측 / 2022-11-24">
+      <created>1669822198684</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822198684</updated>
+    </task>
+    <task id="LOCAL-00041" summary="문자열 / 2022-11-21">
+      <created>1669822235626</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822235626</updated>
+    </task>
+    <task id="LOCAL-00042" summary="헨리 / 2022-11-25">
+      <created>1669822269001</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822269001</updated>
+    </task>
+    <task id="LOCAL-00043" summary="소인수분해 / 2022-11-22">
+      <created>1669822315365</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822315365</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,11 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-11-26" />
-    <MESSAGE value="2022-11-27" />
-    <MESSAGE value="2022-11-28" />
-    <MESSAGE value="2022-11-29" />
-    <MESSAGE value="A + B / 2022-10-22" />
     <MESSAGE value="A - B / 2022-10-22" />
     <MESSAGE value="A/B / 2022-10-22" />
     <MESSAGE value="직사각형에서 탈출 / 2022-11-27" />
@@ -358,6 +388,11 @@
     <MESSAGE value="Hello World / 2022-10-22" />
     <MESSAGE value="A+B - 2 / 2022-11-26" />
     <MESSAGE value="직각삼각형 / 2022-11-28" />
-    <option name="LAST_COMMIT_MESSAGE" value="직각삼각형 / 2022-11-28" />
+    <MESSAGE value="베르트랑 공준 / 2022-11-23" />
+    <MESSAGE value="골드바흐의 추측 / 2022-11-24" />
+    <MESSAGE value="문자열 / 2022-11-21" />
+    <MESSAGE value="헨리 / 2022-11-25" />
+    <MESSAGE value="소인수분해 / 2022-11-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="소인수분해 / 2022-11-22" />
   </component>
 </project>
