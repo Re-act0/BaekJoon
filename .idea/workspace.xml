@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="소인수분해 / 2022-11-22" />
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="소수 / 2022-11-18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -353,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669822315365</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="설탕 배달 / 2022-11-17">
+      <created>1669822846989</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822846989</updated>
+    </task>
+    <task id="LOCAL-00045" summary="소수 / 2022-11-18">
+      <created>1669822965769</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1669822965769</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,8 +382,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A - B / 2022-10-22" />
-    <MESSAGE value="A/B / 2022-10-22" />
     <MESSAGE value="직사각형에서 탈출 / 2022-11-27" />
     <MESSAGE value="더하기 사이클 / 2022-10-29" />
     <MESSAGE value="단어의 개수 / 2022-11-11" />
@@ -393,6 +405,8 @@
     <MESSAGE value="문자열 / 2022-11-21" />
     <MESSAGE value="헨리 / 2022-11-25" />
     <MESSAGE value="소인수분해 / 2022-11-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="소인수분해 / 2022-11-22" />
+    <MESSAGE value="설탕 배달 / 2022-11-17" />
+    <MESSAGE value="소수 / 2022-11-18" />
+    <option name="LAST_COMMIT_MESSAGE" value="소수 / 2022-11-18" />
   </component>
 </project>
