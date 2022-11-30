@@ -23,17 +23,15 @@ public class BaekJoon_1193 { // 분수찾기
                 s++;
                 n--;
             }
-            bw.write(s+"/"+n);
-        }
-
-        else if (n % 2 == 0) {
+            bw.write(s + "/" + n);
+        } else if (n % 2 == 0) {
             int s = 1;
             while (sum > X) {
                 sum--;
                 s++;
                 n--;
             }
-            bw.write(n+"/"+s);
+            bw.write(n + "/" + s);
         }
 
         br.close();
