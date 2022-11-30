@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class BaekJoon_10253 { // 헨리
+public class BaekJoon_10253 {  // 헨리
 
     public static void main(String[] args) throws IOException {
 
