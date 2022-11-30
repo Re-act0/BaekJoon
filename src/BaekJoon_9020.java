@@ -12,14 +12,14 @@ public class BaekJoon_9020 { // 골드바흐의 추측
 
         int T = Integer.parseInt(br.readLine());
 
-        while (T --> 0) {
+        while (T-- > 0) {
             int n = Integer.parseInt(br.readLine());
-            int first_partition = n / 2 ;
-            int second_partition = n / 2 ;
+            int first_partition = n / 2;
+            int second_partition = n / 2;
 
-            while (true){
+            while (true) {
                 // 두 파티션이 모두 소수일 경우
-                if((!prime[first_partition]) && (!prime[second_partition])){
+                if ((!prime[first_partition]) && (!prime[second_partition])) {
                     bw.write(first_partition + " " + second_partition + "\n");
                     break;
                 }
