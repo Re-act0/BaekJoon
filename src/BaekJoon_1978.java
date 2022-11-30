@@ -8,7 +8,7 @@ public class BaekJoon_1978 { // 소수 찾기
 
         int prime_cnt = 0;
 
-        int arr[] = { 2, 3, 5, 7, 11, 13, 17, 19, 23, 27, 31 };
+        int arr[] = {2, 3, 5, 7, 11, 13, 17, 19, 23, 27, 31};
         int N = Integer.parseInt(br.readLine());
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
