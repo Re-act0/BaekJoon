@@ -15,11 +15,10 @@ public class BaekJoon_2231 { // 분해합
             for (int j = 0; j < s.length(); j++) {
                 res += Character.getNumericValue(s.charAt(j));
             }
-            if (res == a){
+            if (res == a) {
                 bw.write(i + "");
                 break;
-            }
-            else if ((i == a-1) && (res!=a)){
+            } else if ((i == a - 1) && (res != a)) {
                 bw.write("0");
             }
         }
