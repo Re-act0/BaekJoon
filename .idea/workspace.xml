@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="그룹 단어 체커 / 2022-11-12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="평균 / 2022-11-02">
+      <change beforePath="$PROJECT_DIR$/src/BaekJoon_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon_1546.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669804637827</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="두 수 비교하기 / 2022-10-23">
+      <created>1669821417879</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821417879</updated>
+    </task>
+    <task id="LOCAL-00028" summary="평균 / 2022-11-02">
+      <created>1669821504630</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821504630</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +283,8 @@
     <MESSAGE value="단어 공부 / 2022-11-11" />
     <MESSAGE value="분수찾기 / 2022-11-14" />
     <MESSAGE value="그룹 단어 체커 / 2022-11-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="그룹 단어 체커 / 2022-11-12" />
+    <MESSAGE value="두 수 비교하기 / 2022-10-23" />
+    <MESSAGE value="평균 / 2022-11-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="평균 / 2022-11-02" />
   </component>
 </project>
