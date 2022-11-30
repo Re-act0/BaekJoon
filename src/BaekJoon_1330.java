@@ -7,9 +7,9 @@ public class BaekJoon_1330 { // 두 수 비교하기
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        if (a>b)
+        if (a > b)
             System.out.println(">");
-        else if(a<b)
+        else if (a < b)
             System.out.println("<");
         else
             System.out.println("==");
