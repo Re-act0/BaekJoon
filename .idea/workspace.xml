@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="수 정렬하기 3 / 2022-12-02">
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="이항 계수 1 / 2022-12-02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668959403944</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2022-11-21">
-      <created>1669042664588</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1669042664588</updated>
     </task>
     <task id="LOCAL-00004" summary="2022-11-22">
       <created>1669109020964</created>
@@ -397,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669951560312</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="이항 계수 1 / 2022-12-02">
+      <created>1669957774305</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1669957774305</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="두 수 비교하기 / 2022-10-23" />
     <MESSAGE value="평균 / 2022-11-02" />
     <MESSAGE value="손익분기점 / 2022-11-13" />
     <MESSAGE value="소수 구하기 / 2022-11-22" />
@@ -437,7 +436,8 @@
     <MESSAGE value="팰린드롬수 / 2022-12-02" />
     <MESSAGE value="최대공약수와 최소공배수 / 2022-12-02" />
     <MESSAGE value="수 정렬하기 3 / 2022-12-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="수 정렬하기 3 / 2022-12-02" />
+    <MESSAGE value="이항 계수 1 / 2022-12-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="이항 계수 1 / 2022-12-02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
