@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BaekJoon_19945 { // 새로운 언어 CC
+public class BaekJoon_19945 {  // 새로운 언어 CC
 
     public static void main(String[] args) throws IOException {
 
