@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="팰린드롬인지 확인하기 / 2022-12-21">
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="숫자 빈도수 / 2022-12-22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668959403944</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2022-11-26">
-      <created>1669474187164</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1669474187164</updated>
     </task>
     <task id="LOCAL-00011" summary="2022-11-27">
       <created>1669534596592</created>
@@ -397,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671614108622</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="숫자 빈도수 / 2022-12-22">
+      <created>1671701200965</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1671701200966</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="벌집 / 2022-11-13" />
     <MESSAGE value="시그마 / 2022-11-14" />
     <MESSAGE value="사파리월드 / 2022-10-26" />
     <MESSAGE value="Hello World / 2022-10-22" />
@@ -437,7 +436,8 @@
     <MESSAGE value="웰컴 / 2022-12-06" />
     <MESSAGE value="수 정렬하기 2 / 2022-12-10" />
     <MESSAGE value="팰린드롬인지 확인하기 / 2022-12-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="팰린드롬인지 확인하기 / 2022-12-21" />
+    <MESSAGE value="숫자 빈도수 / 2022-12-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자 빈도수 / 2022-12-22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
