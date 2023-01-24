@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="지수연산 / 2022-12-24">
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="지수연산 / 2022-01-24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668959403944</updated>
-    </task>
-    <task id="LOCAL-00013" summary="2022-11-29">
-      <created>1669705985965</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1669705985965</updated>
     </task>
     <task id="LOCAL-00014" summary="2022-11-29">
       <created>1669706547971</created>
@@ -398,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671873646215</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="지수연산 / 2022-01-24">
+      <created>1674523859348</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1674523859348</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hello World / 2022-10-22" />
     <MESSAGE value="A+B - 2 / 2022-11-26" />
     <MESSAGE value="직각삼각형 / 2022-11-28" />
     <MESSAGE value="베르트랑 공준 / 2022-11-23" />
@@ -438,7 +437,8 @@
     <MESSAGE value="숫자 빈도수 / 2022-12-22" />
     <MESSAGE value="새로운 언어 CC / 2022-12-24" />
     <MESSAGE value="지수연산 / 2022-12-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="지수연산 / 2022-12-24" />
+    <MESSAGE value="지수연산 / 2022-01-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="지수연산 / 2022-01-24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
