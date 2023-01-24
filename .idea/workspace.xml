@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="지수연산 / 2022-01-24">
+    <list default="true" id="4ca0479b-62f3-4478-a659-f1158ace2804" name="Changes" comment="돌 게임 / 2022-01-24">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon_10826.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon_24416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon_9655.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668959403944</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2022-11-29">
-      <created>1669706547971</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1669706547971</updated>
     </task>
     <task id="LOCAL-00015" summary="2022-11-29">
       <created>1669707753392</created>
@@ -398,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674523859348</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="핸드폰 번호 궁합 / 2022-01-24">
+      <created>1674525453347</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1674525453347</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,8 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A+B - 2 / 2022-11-26" />
-    <MESSAGE value="직각삼각형 / 2022-11-28" />
     <MESSAGE value="베르트랑 공준 / 2022-11-23" />
     <MESSAGE value="골드바흐의 추측 / 2022-11-24" />
     <MESSAGE value="문자열 / 2022-11-21" />
@@ -438,7 +439,9 @@
     <MESSAGE value="새로운 언어 CC / 2022-12-24" />
     <MESSAGE value="지수연산 / 2022-12-24" />
     <MESSAGE value="지수연산 / 2022-01-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="지수연산 / 2022-01-24" />
+    <MESSAGE value="핸드폰 번호 궁합 / 2022-01-24" />
+    <MESSAGE value="돌 게임 / 2022-01-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="돌 게임 / 2022-01-24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
